@@ -12,3 +12,5 @@
 <h1>projetos</h1>
 <h3>transcri-o-de-audio-</h3>
 <P>um site com função que grava audio com base no tempo selecionado e depois trasncreve eme em forma de texto</P>
+<h3>cp1_segundo.semestre.py</h3>
+<P>um sistema de controle de estoque para uma vinheria</P>
