@@ -12,10 +12,10 @@
 <h1>Projetos</h1>
 <h2>Sistema de gravação e transcrição de Áudio</h2>
 <p>Um site com função que grava áudio com base no tempo selecionado e depois transcreve em forma de texto. Pode ser acessado pelo link:
- https://github.com/luigiferrarasinno/transcri-o-de-audio-</p>
-<h2>sistema de controle de estoque de uma vinheira.</h2>
-<p>Um sistema de controle de estoque para uma vinícola. pode ser acessaod pelo link:
- https://github.com/luigiferrarasinno/cp1_segundo.semestre.py</p>
-<h2>sistema de login e cotrole de contas de um aplicativo</h2>
+<a href="https://github.com/luigiferrarasinno/transcri-o-de-audio-">https://github.com/luigiferrarasinno/transcri-o-de-audio-</a></p>
+<h2>Sistema de controle de estoque de uma vinícola</h2>
+<p>Um sistema de controle de estoque para uma vinícola. Pode ser acessado pelo link:
+<a href="https://github.com/luigiferrarasinno/cp1_segundo.semestre.py">https://github.com/luigiferrarasinno/cp1_segundo.semestre.py</a></p>
+<h2>Sistema de login e controle de contas de um aplicativo</h2>
 <p>Global Solution do primeiro ano, segundo semestre da FIAP. O código é um sistema de login e de controle de contas de um aplicativo. Pode ser acessado pelo link:
- https://github.com/luigiferrarasinno/gs-py</p>
+<a href="https://github.com/luigiferrarasinno/gs-py">https://github.com/luigiferrarasinno/gs-py</a></p>
