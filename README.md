@@ -21,5 +21,5 @@
 <a href="https://github.com/luigiferrarasinno/gs-py">https://github.com/luigiferrarasinno/gs-py</a></p>
 
 <h2>Meu portifólio/h2>
-<a href="https://sinno-tech-resume-hub.vercel.app/"portifólio</a></p>
+<a href="https://sinno-tech-resume-hub.vercel.app/"portifólio</a>
 
