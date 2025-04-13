@@ -9,16 +9,43 @@
   </a>
 </div>
 
-<h1>🚀Projetos</h1>
-<h2>💯Sistema de gravação e transcrição de Áudio</h2>
-<p>Um site com função que grava áudio com base no tempo selecionado e depois transcreve em forma de texto. Pode ser acessado pelo link:
-<a href="https://github.com/luigiferrarasinno/transcri-o-de-audio-">https://github.com/luigiferrarasinno/transcri-o-de-audio-</a></p>
-<h2>🍷Sistema de controle de estoque de uma vinícola</h2>
-<p>Um sistema de controle de estoque para uma vinícola. Pode ser acessado pelo link:
-<a href="https://github.com/luigiferrarasinno/cp1_segundo.semestre.py">https://github.com/luigiferrarasinno/cp1_segundo.semestre.py</a></p>
-<h2>📱Sistema de login e controle de contas de um aplicativo</h2>
-<p>Global Solution do primeiro ano, segundo semestre da FIAP. O código é um sistema de login e de controle de contas de um aplicativo. Pode ser acessado pelo link:
-<a href="https://github.com/luigiferrarasinno/gs-py">https://github.com/luigiferrarasinno/gs-py</a></p>
+---
 
-<h2>Meu Portfólio</h2>
-<p>Confira meu trabalho no <a href="https://sinno-tech-resume-hub.vercel.app/" target="_blank" rel="noopener noreferrer">portfólio online</a>.</p>
+<h1>🚀 Projetos</h1>
+
+<h2>💯 Sistema de gravação e transcrição de Áudio</h2>
+<p>
+  Um site com função que grava áudio com base no tempo selecionado e depois transcreve em forma de texto.
+  <br/>
+  🔗 <a href="https://github.com/luigiferrarasinno/transcri-o-de-audio-" target="_blank">Repositório do projeto</a>
+</p>
+
+<h2>🍷 Sistema de controle de estoque de uma vinícola</h2>
+<p>
+  Um sistema de controle de estoque para uma vinícola.
+  <br/>
+  🔗 <a href="https://github.com/luigiferrarasinno/cp1_segundo.semestre.py" target="_blank">Repositório do projeto</a>
+</p>
+
+<h2>📱 Sistema de login e controle de contas de um aplicativo</h2>
+<p>
+  Global Solution do primeiro ano, segundo semestre da FIAP. Um sistema de login e controle de contas de um app.
+  <br/>
+  🔗 <a href="https://github.com/luigiferrarasinno/gs-py" target="_blank">Repositório do projeto</a>
+</p>
+
+---
+
+<h2>🌐 Meu Portfólio</h2>
+<p>
+  Confira meu trabalho no 👉 
+  <a href="https://sinno-tech-resume-hub.vercel.app/" target="_blank" rel="noopener noreferrer">portfólio online</a>.
+</p>
+
+---
+
+<h2>📬 Contato</h2>
+<ul>
+  <li>🔗 <a href="https://www.linkedin.com/in/luigi-ferrara-052899269/" target="_blank">LinkedIn</a></li>
+  <li>📧 <a href="mailto:luigi.ferrara.2a@gmail.com">luigi.ferrara.2a@gmail.com</a></li>
+</ul>
