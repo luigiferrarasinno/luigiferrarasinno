@@ -19,3 +19,7 @@
 <h2>📱Sistema de login e controle de contas de um aplicativo</h2>
 <p>Global Solution do primeiro ano, segundo semestre da FIAP. O código é um sistema de login e de controle de contas de um aplicativo. Pode ser acessado pelo link:
 <a href="https://github.com/luigiferrarasinno/gs-py">https://github.com/luigiferrarasinno/gs-py</a></p>
+
+<h2>Meu portifólio/h2>
+<a href="https://sinno-tech-resume-hub.vercel.app/"portifólio</a></p>
+
