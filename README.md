@@ -36,17 +36,7 @@
 
 ---
 
-<h2>🌐 Meu Portfólio</h2>
-<p>
-  Confira meu trabalho no 👉 
-  <a href="https://sinno-tech-resume-hub.vercel.app/" target="_blank" rel="noopener noreferrer">portfólio online</a>.
-</p>
 
----
-
-<a href="https://www.linkedin.com/in/luigi-ferrara-052899269/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-%2300C896?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
 <div> 
  <a href="mailto:luigi.ferrara.2a@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
